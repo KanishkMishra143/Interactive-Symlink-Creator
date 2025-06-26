@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Interactive Symlink Creator
-# Usage: ./link_all_safe.sh /path/to/source /path/to/destination
+# Usage: ./isc.sh /path/to/source /path/to/destination
 
 SOURCE="$1"
 DEST="$2"
