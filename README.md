@@ -40,4 +40,4 @@ If a conflict is detected (i.e., file/folder/link already exists at the destinat
 
 ## License
 
-MIT (or add your license here)
+MIT
